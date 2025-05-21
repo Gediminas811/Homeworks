@@ -1,0 +1,10 @@
+
+1. Complete the task in 6.txt. Please try complete advanced part as well.
+2. Ideally define a function in your code.
+3. Review.
+4. https://www.programiz.com/python-programming/function
+
+Optional:
+5.Whole conversation should be taken into context.
+
+Advanced, optional:
