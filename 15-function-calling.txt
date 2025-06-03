@@ -1,0 +1,18 @@
+Today you will do some individual learning on function calling.
+
+1. Please review what are function in Python if you are not familar yet.
+
+A great short tutorial is here:
+https://www.w3schools.com/python/python_functions.asp
+
+2. Try read and understand function calling as in:
+https://platform.openai.com/docs/guides/function-calling?api-mode=chat
+
+Answer yourself some questions:
+1. What is function calling?
+2. What does it give to LLM?
+3. Why function calling/(tools) is a very hot topic right now?
+4. Why it is important to implement for business use cases?
+
+3. Try to implement a 'get weather' script as per 'function callings steps'
+in  https://platform.openai.com/docs/guides/function-calling?api-mode=chat#function-calling-steps
